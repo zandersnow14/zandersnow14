@@ -5,11 +5,11 @@ Software and Data Engineer from the UK.
 
 ## Projects
 
-### SaleTracker 📈
-![A cloud hosted service where users can track items from online retailers](https://github.com/zandersnow14/SaleTracker)
+### [SaleTracker 📈](https://github.com/zandersnow14/SaleTracker)
+A cloud hosted service where users can track items from online retailers
 
-### GreenRoute 🌱
-![A dashboard aimed at making users more aware of the carbon footprint associated with their travle habits](https://github.com/zandersnow14/GreenRoute)
+### [GreenRoute 🌱](https://github.com/zandersnow14/GreenRoute)
+A dashboard aimed at making users more aware of the carbon footprint associated with their travle habits
 
 ## Tech Stack
 
