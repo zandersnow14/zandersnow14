@@ -6,11 +6,19 @@ Software and Data Engineer from the UK.
 ## Projects
 
 ### [GreenRoute 🌱](https://github.com/zandersnow14/GreenRoute)
-A dashboard aimed at making users more aware of the carbon footprint associated with their travle habits
+A dashboard aimed at making users more aware of the carbon footprint associated with their travle habits.
 
 ### [SaleTracker 📈](https://github.com/zandersnow14/SaleTracker)
-A cloud hosted service where users can track items from online retailers
+A cloud hosted service where users can track items from online retailers.
 
+### [Pharmazer Pipeline 💊](https://github.com/zandersnow14/Pharmazer-Pipeline)
+An on-demand pipeline that uses machine learning and natural language processing (NLP) to help connect matching records for a fictional pharmaceutical company (Pharmazer).
+
+### [T3 Pipeline 🚚](https://github.com/zandersnow14/T3-Pipeline)
+A complex, fully-automated, cloud-based pipeline to help a fictional food truck company (T3) work out which of their trucks are most profitable.
+
+### [LMNH Pipeline 🦕](https://github.com/zandersnow14/LMNH-Pipeline)
+An automated pipeline for a fictional Natural History Museum (LMNH), aiming to combine, store, and analyse all visitor kiosk data automatically in realtime.
 
 
 ## Tech Stack
