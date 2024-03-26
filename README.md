@@ -1,4 +1,3 @@
-![](6d281f02-ba9b-4931-bda1-23463ad1b401.gif)
 # Zander Snow
 Software and Data Engineer from the UK.
 
